@@ -10,11 +10,11 @@ Genral codes for the raspberry Pi
 
 See configuration on the raspberry pi
 
-![configuration raspberry pi](figures\raspberry_temperature_sensor.jpg)
+![configuration raspberry pi](figures/raspberry_temperature_sensor.jpg)
 
 Raspberry pi pins:
 
-![pins](figures\GPIO.png)
+![pins](figures/GPIO.png)
 
 # Info
 
