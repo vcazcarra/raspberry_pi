@@ -1,12 +1,11 @@
 # raspberry_pi
 Genral codes for the raspberry Pi 
 
-# Configuration of the raspberry pi
+# Configuration of temperature / humidity DHT22 sensor on the raspberry pi
 
 - Positive +Power (VCC) to 	Pin 1 (3.3v Power): Purple cable
 - out	Signal/Data	to Pin 7 (GPIO 4): Blue cable
 -	Negative - Ground (GND)	to Pin 6 (Ground): Green cable
-
 
 See configuration on the raspberry pi
 
